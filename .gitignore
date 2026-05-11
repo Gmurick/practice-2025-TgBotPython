@@ -1,1 +1,16 @@
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Логи
+*.log
+
+# Виртуальные окружения
+venv/
+env/
+.env
+
+# Файлы настроек IDE (PyCharm, VS Code)
+.idea/
+.vscode/
