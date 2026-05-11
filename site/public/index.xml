@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Симулятор раздачи листовок</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Симулятор раздачи листовок</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⚙️ Техническая сторона разработки</title>
+      <link>http://localhost:1313/posts/post-3/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-3/</guid>
+      <description>&lt;p&gt;Продолжаем знакомить вас с командой. Сегодня в гостях Tech-лид проекта — Слава!&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/slava.jpg&#34; alt=&#34;Команда проекта&#34; width=&#34;100%&#34; style=&#34;border-radius:16px; margin-top:20px;&#34;&gt;&#xA;&lt;p&gt;Он рассказал, с чего всё началось, чем вдохновлялся и как устроена разработка изнутри.&lt;/p&gt;&#xA;&lt;p&gt;👇 Читайте интервью&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Какова была изначальная &amp;ldquo;искра&amp;rdquo;, с которой всё начиналось?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;В ноябре 2025 года мы с одногруппниками возвращались домой с пар. Метров за 100 от метро нас остановил настойчивый промоутер и минут 15 уговаривал взять листовку. В итоге мы реально пошли в то заведение. Тогда я впервые задумался: из такой нелепой ситуации может получиться отличная игра.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🎮 Продолжаем наше знакомство!</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;p&gt;Чтобы узнать команду поближе, мы взяли интервью у Тим-лидера проекта — Кирилла.&lt;/p&gt;&#xA;&lt;p&gt;Кирилл рассказал нам, как зарождалась идея игры, чем он вдохновлялся и что стоит за кадром разработки.&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/kira.jpg&#34; alt=&#34;Команда проекта&#34; width=&#34;100%&#34; style=&#34;border-radius:16px; margin-top:20px;&#34;&gt;&#xA;&lt;p&gt;👇Читайте интервью ниже&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Какова была изначальная &amp;ldquo;искра&amp;rdquo;, с которой всё начиналось?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Всё началось, когда мы с друзьями шли домой после пар и встретили мужчину, который 15 минут уговаривал нас взять листовку. В тот момент я понял, что про это нужно сделать игру.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Вчера прошёл День открытых дверей!</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;Мы впервые представили наш проект абитуриентам - и они смогли не просто посмотреть, а сыграть в игру! 📄 Классно видеть живые эмоции, слышать вопросы и ловить обратную связь.&lt;/p&gt;&#xA;&lt;p&gt;Если интересно, что говорят о проекте будущие студенты - ставьте 🔥&lt;/p&gt;&#xA;&lt;p&gt;А для тех, кто хочет заглянуть за кулисы — ловите видео с вчерашнего дня!&lt;/p&gt;&#xA;&lt;p&gt;&lt;video controls preload=&#34;metadata&#34; width=&#34;100%&#34;&gt; &lt;source src=&#34;http://localhost:1313/videos/open-day.mp4&#34; type=&#34;video/mp4&#34;&gt; &lt;source src=&#34;http://localhost:1313/videos/open-day.webm&#34; type=&#34;video/webm&#34;&gt; &lt;/video&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Наш первый пост!</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;Всем привет! 👋🏼 Рады видеть вас на нашем сайте, посвященном игре «Steamleaf».&lt;/p&gt;&#xA;&lt;p&gt;Мы делаем игру, в которой каждый сможет почувствовать себя частью уличного маркетинга. Это симулятор раздачи листовок 📃&lt;/p&gt;&#xA;&lt;p&gt;Мы не просто молча делаем игру, мы хотим делать ее вместе с вами.&lt;/p&gt;&#xA;&lt;p&gt;О планах:&lt;/p&gt;&#xA;&lt;p&gt;📆 Уже в конце мая мы опубликуем первую версию игры в этом канале.&lt;/p&gt;&#xA;&lt;p&gt;🔧 Мы будем показывать вам этапы разработки: как пишется код, как рисуются дизайны и как рождается геймплей.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;«Симулятор раздачи листовок» — это инди-игра в жанре симулятора повседневности с элементами сатиры и ретрофутуризма.&lt;/p&gt;&#xA;&lt;p&gt;Проект разрабатывается студенческой командой в рамках дисциплины «Проектная деятельность».&lt;/p&gt;&#xA;&lt;h4 id=&#34;актуальность-проекта&#34;&gt;Актуальность проекта:&lt;/h4&gt;&#xA;&lt;p&gt;Несмотря на популярность необычных симуляторов, профессия раздатчика листовок практически не представлена в игровой индустрии. Проект предлагает игроку новый игровой опыт, сочетающий реалистичность, юмор и социальную сатиру.&lt;/p&gt;&#xA;&lt;h4 id=&#34;цель-проекта&#34;&gt;Цель проекта:&lt;/h4&gt;&#xA;&lt;p&gt;Разработать играбельный прототип инди-симулятора с полноценным игровым циклом, базовыми механиками и уникальной атмосферой.&lt;/p&gt;&#xA;&lt;h4 id=&#34;основные-механики&#34;&gt;Основные механики:&lt;/h4&gt;&#xA;&lt;p&gt;- Раздача листовок&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ресурсы</title>
+      <link>http://localhost:1313/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/</guid>
+      <description>&lt;h3 id=&#34;полезные-материалы&#34;&gt;Полезные материалы&lt;/h3&gt;&#xA;&lt;h4 id=&#34;игровые-движки&#34;&gt;Игровые движки&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unity.com/&#34;&gt;https://unity.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.unrealengine.com/&#34;&gt;https://www.unrealengine.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;источники-вдохновения&#34;&gt;Источники вдохновения&lt;/h4&gt;&#xA;&lt;p&gt;- Dishonored 2&lt;/p&gt;&#xA;&lt;p&gt;- Postal 2&lt;/p&gt;&#xA;&lt;p&gt;- Hades 2&lt;/p&gt;&#xA;&lt;p&gt;- Beholder 2&lt;/p&gt;&#xA;&lt;h4 id=&#34;документация&#34;&gt;Документация&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1XaTjcPgVoKK3WgRQUe3&#34;&gt;https://drive.google.com/drive/folders/1XaTjcPgVoKK3WgRQUe3&lt;/a&gt;_sKmzqRe3RHyZ&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Участники</title>
+      <link>http://localhost:1313/participants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/participants/</guid>
+      <description>&lt;h3 id=&#34;команда-проекта&#34;&gt;Команда проекта&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Руководитель проекта&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;- Носкова Василиса Евгеньевна&lt;/p&gt;&#xA;&lt;h4&gt;&lt;/h4&gt;&#xA;&lt;h3 id=&#34;основные-направления-работы&#34;&gt;Основные направления работы&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Программисты&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Разработка игровых механик, системы диалогов и интерфейса.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Плешков Кирилл Максимович&lt;/li&gt;&#xA;&lt;li&gt;Самодуровский Вячеслав Александрович&lt;/li&gt;&#xA;&lt;li&gt;Николаенков Дмитрий Сергеевич&lt;/li&gt;&#xA;&lt;li&gt;Плетнева Анна Сергеевна&lt;/li&gt;&#xA;&lt;li&gt;Попова Елизавета Валерьевна&lt;/li&gt;&#xA;&lt;li&gt;Субботина Валерия Романовна&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;2D художники&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Создание концептов персонажей, интерфейса и локаций.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Козырева Елизавета Денисовна&lt;/li&gt;&#xA;&lt;li&gt;Крутяков Максим Евгеньевич&lt;/li&gt;&#xA;&lt;li&gt;Лагутенко Алеся Вадимовна&lt;/li&gt;&#xA;&lt;li&gt;Саяхова Евгения Алексеевна&lt;/li&gt;&#xA;&lt;li&gt;Троешестова Арина Сергеевна&lt;/li&gt;&#xA;&lt;li&gt;Чиркова Вероника Сергеевна&lt;/li&gt;&#xA;&lt;li&gt;Каримбаева Анора Еркин кизи&lt;/li&gt;&#xA;&lt;li&gt;Кинёв Максим Юрьевич&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;3D художники&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
